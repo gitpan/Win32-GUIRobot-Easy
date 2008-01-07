@@ -1,0 +1,6 @@
+Revision history for Perl extension Win32::GUIRobot::Easy.
+
+0.01  Sun Jan  6 22:30:29 2008
+	- original version; created by h2xs 1.23 with options
+		-n Win32::GUIRobot::Easy -v 0.01 -X
+

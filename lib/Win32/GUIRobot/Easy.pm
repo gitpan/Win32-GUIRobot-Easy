@@ -5,17 +5,12 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
-
-package ZofGUIRobot;
-use strict;
-use warnings;
 use Carp;
 use Win32::GUIRobot qw(:all);
 use Win32::Clipboard;
 
-our $VERSION = '0.01';
 
 sub new {
     my ( $class, %args ) = @_;

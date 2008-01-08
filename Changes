@@ -1,5 +1,13 @@
 Revision history for Perl extension Win32::GUIRobot::Easy.
 
+0.03  Sun Jan  7 7:06:00 2008
+	- implemented drag functions
+	- middle clickety support
+	- wrote full documentation.
+
+0.02  Sun Jan  6 22:35:00 2008
+	- a minor screw up while uploading...
+
 0.01  Sun Jan  6 22:30:29 2008
 	- original version; created by h2xs 1.23 with options
 		-n Win32::GUIRobot::Easy -v 0.01 -X
